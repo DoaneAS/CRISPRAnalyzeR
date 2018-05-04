@@ -1,4 +1,3 @@
-
 Bootstrap: docker
 From: boutroslab/crispranalyzer:latest
 
